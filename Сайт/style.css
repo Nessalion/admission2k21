@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body{
+    background-image: url(bg.jpg);
+    /* background-color: blue; */
+    background-attachment: fixed,scroll;
+    background-size:cover;
+    
+    background-position:center;
+    height:100012px;
+    
+}
+/* Nav */
+header{
+    width:2000px;
+    height: 65px;
+    background-image: url(1554798235_shapka-sayta-rabota-16143382311.jpg);
+    background-color: rgb(95, 95, 95);
+    position: fixed;
+    background-blend-mode: multiply;
+    
+    margin: 0px; 
+    
+
+    
+}
+#verx{
+    width: 200px;
+    height: 200px;
+    
+    
+    
+} 
+.RAE{
+    width: 1330px;
+    height:10000px;
+    background-color: white;
+    margin: 0px auto;
+}
+span{
+    font-family: cursive;
+}
+#knopa1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    margin: 0px ;
+    color:cornsilk;
+    text-align: center;
+}
+#Novosti{
+    background-color: rgb(114, 115, 116);
+    width: 500px;
+    height: 500px;
+
+}
+#fgd{
+    font-size: 2em;
+    color:crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#spisok{
+    width:200px;
+    height: 100px;
+    margin-left: 278px;
+    margin-right: 0;
+    
+    background-color: rgba(126, 125, 125, 0.637);
+    
+}
+#sp{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1,5em;
+    margin: auto 50px;
+}
